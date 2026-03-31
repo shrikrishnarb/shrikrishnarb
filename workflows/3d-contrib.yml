@@ -1,0 +1,25 @@
+name: Generate 3D Contribution Calendar
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight
+  workflow_dispatch:        # lets you trigger it manually too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contrib Graph
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: shrikrishnarb
+
+      - name: Commit & Push
+        run: |
+          git config user.email "shrikrishnarb@gmail.com"
+          git config user.name "shrikrishnarb"
+          git add -A .
+          git commit -m "Generate 3D contribution graph" || exit 0
+          git push

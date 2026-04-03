@@ -96,16 +96,6 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
-<!-- OPTION: Summary Cards — uncomment to use instead of 3D
-<div align="center">
-  <img src="profile-summary-card-output/default-0-profile-details.svg" width="100%" />
-  <img src="profile-summary-card-output/default-1-repos-per-language.svg" width="49%" />
-  <img src="profile-summary-card-output/default-2-most-commit-language.svg" width="49%" />
-  <img src="profile-summary-card-output/default-3-stats.svg" width="49%" />
-  <img src="profile-summary-card-output/default-4-productive-time.svg" width="49%" />
-</div>
--->
-
 ---
 
 ## 📅 Activity

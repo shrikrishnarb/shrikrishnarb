@@ -97,7 +97,7 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 </div>
 
 ---
-
+<!-- 
 ## 📅 Activity
 
 <div align="center">
@@ -105,6 +105,7 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 </div>
 
 ---
+-->
 
 <div align="center">
 

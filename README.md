@@ -79,7 +79,7 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 
 ---
 
-## 🌐 Contribution Graph
+<!-- ## 🌐 Contribution Graph
 
 <!-- OPTION: Snake — uncomment to use instead of 3D
 <div align="center">
@@ -89,15 +89,14 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
   <img width="100%" src="https://raw.githubusercontent.com/shrikrishnarb/shrikrishnarb/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </picture>
 </div>
--->
 
-<!-- OPTION: 3D Calendar (currently active) -->
+<!-- OPTION: 3D Calendar (currently active)
 <div align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
----
-<!-- 
+
+ 
 ## 📅 Activity
 
 <div align="center">

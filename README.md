@@ -74,7 +74,7 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-shrikrishnarb.vercel.app/api?username=shrikrishnarb&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-shrikrishnarb.vercel.app/api?username=shrikrishnarb&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=0&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" height="150" alt="stats graph" />
 </div>
 
 <div align="center">

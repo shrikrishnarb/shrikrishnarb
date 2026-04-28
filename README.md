@@ -74,7 +74,15 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shrikrishnarb&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrikrishnarb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8&text_color=c9d1d9" height="150" alt="stats graph" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shrikrishnarb&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrikrishnarb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" height="150" alt="languages graph" />
 </div>
 
 ---

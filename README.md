@@ -78,7 +78,7 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shrikrishnarb&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shrikrishnarb&mode=weekly&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=c9d1d9" height="150" alt="GitHub Streak" />
 </div>
 
 <div align="center">

@@ -87,33 +87,6 @@ My work spans the full spectrum: from **bare-metal embedded firmware and hardwar
 
 ---
 
-<!-- ## 🌐 Contribution Graph
-
-<!-- OPTION: Snake — uncomment to use instead of 3D
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shrikrishnarb/shrikrishnarb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shrikrishnarb/shrikrishnarb/output/github-contribution-grid-snake.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/shrikrishnarb/shrikrishnarb/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</picture>
-</div>
-
-<!-- OPTION: 3D Calendar (currently active)
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
-</div>
-
-
- 
-## 📅 Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shrikrishnarb&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FB923C&area=true&area_color=38BDF8&hide_days_label=true&from=2025-05-01&to=2025-11-30" />
-</div>
-
----
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Always+open+to+feedback,+suggestions,+and+interesting+conversations.&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
